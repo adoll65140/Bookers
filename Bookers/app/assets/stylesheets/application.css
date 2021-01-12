@@ -67,9 +67,7 @@ td{
   padding-left: 5px;
   padding-right: 5px;
 }
-.post{
-  margin-top: 0;
-}
+
 p{
   padding-top: 20px;
 }
@@ -82,4 +80,7 @@ p{
 }
 .show-box{
   margin-left: 30px;
+}
+.show-text{
+  font-weight: bold;
 }
